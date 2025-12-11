@@ -1,0 +1,15 @@
+flask==2.3.2
+python-dotenv==1.0.0
+openai==0.27.8
+pygithub==1.59.1
+requests==2.31.0
+pydantic==1.10.9
+flask-cors==4.0.0
+gunicorn==20.1.0
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
+click==8.1.6
+tqdm==4.65.0
+loguru==0.7.0
